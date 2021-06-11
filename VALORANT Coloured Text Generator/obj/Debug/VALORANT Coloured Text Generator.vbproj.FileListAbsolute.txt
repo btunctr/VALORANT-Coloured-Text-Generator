@@ -1,0 +1,12 @@
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\bin\Debug\VALORANT Coloured Text Generator.exe.config
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\bin\Debug\VALORANT Coloured Text Generator.exe
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\bin\Debug\VALORANT Coloured Text Generator.pdb
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\bin\Debug\VALORANT Coloured Text Generator.xml
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\obj\Debug\VALORANT Coloured Text Generator.vbprojAssemblyReference.cache
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\obj\Debug\VALORANT_Coloured_Text_Generator.Form1.resources
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\obj\Debug\VALORANT_Coloured_Text_Generator.Resources.resources
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\obj\Debug\VALORANT Coloured Text Generator.vbproj.GenerateResource.cache
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\obj\Debug\VALORANT Coloured Text Generator.vbproj.CoreCompileInputs.cache
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\obj\Debug\VALORANT Coloured Text Generator.exe
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\obj\Debug\VALORANT Coloured Text Generator.xml
+C:\Users\nanon\source\repos\VALORANT Coloured Text Generator\VALORANT Coloured Text Generator\obj\Debug\VALORANT Coloured Text Generator.pdb
