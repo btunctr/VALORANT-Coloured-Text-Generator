@@ -17,7 +17,7 @@
 |  Önceden hazırlanmış config dosyalarını içe aktarıp içeriklerini direk kullanabilirsininz |
 |  Yazıların istediğiniz yerlerindeki renkler siz düzenleyebilir seçip değiştirebilirsiniz |
 
-- Config Yükleme: Config yüklemek için programda buluna "Load Config" "Config Yükle" Kısmına tıklamanız ve bilgisayarınızdan .vctg uzantılı dosyayı seçmeniz gerekmektedir ardından Görüntüle "View Config" e basarak Configin içeriğini görebilir ve tek tık ile kullanabilirsiniz
+- Config Yükleme: Config yüklemek için programda buluna "Load Config" "Config Yükle" Kısmına tıklamanız ve bilgisayarınızdan .json uzantılı dosyayı seçmeniz gerekmektedir ardından Görüntüle "View Config" e basarak Configin içeriğini görebilir ve tek tık ile kullanabilirsiniz
 
 - Yazıları Harfe veya Sözcüğe göre renklendirme: Programın içerisinde "Rainbow Text" "Gökkuşağı Yazı" Bölümüne geldiğinizde size Harfe göre mi yoksa Sözcüğe göremi yapmak istediğinizi sorar oradan istediğinizi seçip "Apply" "Uygula" ya tıklarsanız Yazı Alanına girdiğiniz metin renklendirilir
 
@@ -29,10 +29,11 @@
 |  Hazır config dosyası yükleyip kullanabilme |
 | Gökkuşağı Yazı Seçeneği  |
 
-
-
-#### YAPILACAKLAR;
-1. v0.3 daki Config Görüntüleyicisi Bugını düzelteceğim
+| YENİLİKLER (v0.4)  |
+| ------------ |
+| Config formatı .vctg'den .json'a dönüştürüldü  |
+| Config Bugı Düzeltildi |
+| Config Görüntüleyici Arayüzünda küçük Değişiklikler Yapıldı|
 
 
 
