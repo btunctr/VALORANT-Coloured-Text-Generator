@@ -4,10 +4,10 @@
 #####  Bu Program Nedir ne işe yarar?
 >Bu program Valorant oyununda renkli yazıları daha hızlı yazmanıza yardımcı olmak için yazılmış bir programdır. 
 
-###### Nasıl Çalışır?
+##### Nasıl Çalışır?
 >Normalde Valorant da renk kodları vardır bu renk kodlarını yazacağınız yazının başına koyup sonuna da </> koyup kullanabilirsiniz ama uzun ve çok renkli yazılarda bu işin manuel yapılması oldukça zorlaşır bu program tam da orada devreye girer ve sizi büyük bir yükten kurtarır.
 
-###### Nasıl Kullanılır?
+##### Nasıl Kullanılır?
 >Programın arayüzü basittir. Aşağıda daha detaylı anlatılmıştır;
 
 |  PROGRAMLA YAPABİLECEKLERİNİZ |
