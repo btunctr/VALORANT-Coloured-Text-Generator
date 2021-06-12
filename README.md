@@ -25,7 +25,8 @@
 
 
 
-
+#### YAPILACAKLAR;
+1. v0.3 daki Config Görüntüleyicisi Bugını düzelteceğim
 
 
 
