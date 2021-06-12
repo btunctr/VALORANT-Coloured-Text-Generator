@@ -23,6 +23,12 @@
 
 - Yazıları renk menüsü kullanarak renklendirme:Renk menüsü programın üstünde bulunur ve orada tüm renkler listelenmiştir yazı alanından istediğiniz bir kısmı seçip renk menüsünde butona basarsanız yazı o renk içine alınacaktır.
 
+| YENİLİKLER (v0.3)  |
+| ------------ |
+| Yazı alanında seçilen yazıyı direk renklendirme  |
+|  Hazır config dosyası yükleyip kullanabilme |
+| Gökkuşağı Yazı Seçeneği  |
+
 
 
 #### YAPILACAKLAR;
