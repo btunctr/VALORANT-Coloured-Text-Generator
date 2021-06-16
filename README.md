@@ -41,3 +41,48 @@
 
 
 ` PROGRAMIN SON SÜRÜMÜNÜ KULLANMAYA ÖZEN GÖSTERİN!`
+
+
+
+
+##### What is This Program and what does it do?
+>This program is a program written to help you write colored text faster in Valorant game.
+
+##### How does it work?
+>Normally, there are color codes in Valorant, you can use these color codes by putting them at the beginning of the article you are going to write and by putting </> at the end, but in long and multi-colored texts, it is very difficult to do this manually.
+
+##### How to use?
+>The interface of the program is simple. It is explained in more detail below;
+
+| WHAT YOU CAN DO WITH THE PROGRAM |
+| ------------ |
+| You can color a long text and turn it into single or multiple colors |
+| You can give individual colors to each character or word with one click |
+| You can import pre-made config files and use their contents directly |
+| You can edit, select and change the colors in the places you want in the texts |
+
+- Config Loading: To load Config, you need to click on the "Load Config" "Load Config" section in the program and select the .json file from your computer, then click View "View Config" to see the Config content and use it with one click
+
+- Coloring the texts by Letter or Word: When you come to the "Rainbow Text" "Rainbow Text" Section in the program, it will ask you if you want to make it according to the Letter or Word, if you choose the one you want from there and click "Apply", the text you enter in the Text Field will be colored.
+
+- Coloring the texts using the color menu: The color menu is located at the top of the program and all the colors are listed there.
+
+| INNOVATIONS (v0.3) |
+| ------------ |
+| Coloring the selected text directly in the text field |
+| Loading and using ready config file |
+| Rainbow Font Option |
+
+| INNOVATIONS (v0.4) |
+| ------------ |
+| Config format converted from .vctg to .json |
+| Fixed Config Bug |
+| Minor Changes Made to Config Viewer Interface|
+
+| INNOVATIONS (v0.5) |
+| ------------ |
+| Added option to change rainbow colors|
+
+
+` TAKE CARE TO USE THE LAST VERSION OF THE PROGRAM!` 
+
