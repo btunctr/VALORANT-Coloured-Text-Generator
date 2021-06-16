@@ -42,7 +42,7 @@
 
 ` PROGRAMIN SON SÜRÜMÜNÜ KULLANMAYA ÖZEN GÖSTERİN!`
 
-
+# VALORANT-Coloured-Text-Generator (EN)
 
 
 ##### What is This Program and what does it do?
