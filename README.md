@@ -85,6 +85,7 @@
 | What's new  (v0.5) |
 | ------------ |
 | Added option to change rainbow colors (Double click the group box that holds rainbow text elements) |
+
 | What's new  (v0.6) |
 | ------------ |
 | Added new color |
