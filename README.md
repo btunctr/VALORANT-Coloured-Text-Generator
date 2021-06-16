@@ -1,4 +1,4 @@
-# VALORANT-Coloured-Text-Generator
+# VALORANT-Coloured-Text-Generator (Turkish)
 
 
 #####  Bu Program Nedir ne işe yarar?
@@ -42,7 +42,7 @@
 
 ` PROGRAMIN SON SÜRÜMÜNÜ KULLANMAYA ÖZEN GÖSTERİN!`
 
-# VALORANT-Coloured-Text-Generator (EN)
+# VALORANT-Coloured-Text-Generator (English)
 
 
 ##### What is This Program and what does it do?
