@@ -35,6 +35,9 @@
 | Config Bugı Düzeltildi |
 | Config Görüntüleyici Arayüzünda küçük Değişiklikler Yapıldı|
 
+| YENİLİKLER (v0.5)  |
+| ------------ |
+| Gökkuşağı renklerini değiştirme seçeneği eklendi|
 
 
 ` PROGRAMIN SON SÜRÜMÜNÜ KULLANMAYA ÖZEN GÖSTERİN!`
