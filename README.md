@@ -39,6 +39,9 @@
 | ------------ |
 | Gökkuşağı renklerini değiştirme seçeneği eklendi|
 
+| YENİLİKLER (v0.6)  |
+| ------------ |
+| Yeni bir renk eklendi |
 
 ` PROGRAMIN SON SÜRÜMÜNÜ KULLANMAYA ÖZEN GÖSTERİN!`
 
@@ -82,6 +85,9 @@
 | What's new  (v0.5) |
 | ------------ |
 | Added option to change rainbow colors (Double click the group box that holds rainbow text elements) |
+| What's new  (v0.6) |
+| ------------ |
+| Added new color |
 
 
 ` I RECOMMEND TO USE THE LATEST VERSION OF THE PROGRAM ` 
