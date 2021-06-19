@@ -1,4 +1,4 @@
-# VALORANT-Coloured-Text-Generator (Turkish)
+# VALORANT-Coloured-Text-Generator (Türkçe)
 
 
 #####  Bu Program Nedir ne işe yarar?
